@@ -1,2 +1,2 @@
 # hello-world
-day1
+day2
